@@ -59,3 +59,6 @@ age = 23
 name = "sunny"
 
 print(f"my name is {name} and my age is {age}.")
+
+
+print(str.count("o")) 
