@@ -111,9 +111,16 @@ print(myfunction())
 
 print("\n Lambda function \n")
 
+
+# function that adds 3 numbers
+
 add = lambda x,y,z : x+y+z
 
 print(add(5,6,7))
+
+
+
+# function to square a number
 
 def myfunc(n):
   

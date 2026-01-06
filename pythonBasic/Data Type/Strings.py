@@ -61,4 +61,11 @@ name = "sunny"
 print(f"my name is {name} and my age is {age}.")
 
 
+def welcome(name, age):
+    return f"my name is {name} and my age is {age}.".format(name=name, age=age)
+
+
+print(welcome("sushil", 25))
+
+
 print(str.count("o")) 

@@ -25,7 +25,7 @@ del p1
 
 class PersonInfo:
 
-    def __init__(self,name,age,city,gender):
+    def __init__(self,name,age,city,gender): #contructor
         self.name=name
         self.age=age
         self.city=city

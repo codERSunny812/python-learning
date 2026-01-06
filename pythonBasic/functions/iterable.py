@@ -8,3 +8,9 @@ print(next(my_iter))  # Output: 3
 print(next(my_iter))  # Output: 4
 print(next(my_iter))  # Output: 5
 # print(next(my_iter))  # This would raise StopIteration error  
+
+
+
+
+# python list iterables vs iterators
+
