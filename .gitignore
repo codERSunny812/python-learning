@@ -1,0 +1,13 @@
+pyLibraries/bin
+pyLibraries/pyvenv.cfg
+pyLibraries/images
+pyLibraries/include
+pyLibraries/lib
+pyLibraries/share
+
+.vscode/
+
+EDA/bin
+EDA/include
+EDA/lib
+
